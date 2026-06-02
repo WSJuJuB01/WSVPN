@@ -14,7 +14,8 @@ MARKER_NORMAL = "socks://0g==@1488.88.88.88:443#Обычные сервера⬇
 MARKER_WHITE  = "socks://0g==@52.52.52.52:443#Белые списки⬇️"
 
 # Реальные белые SNI для РФ
-WHITE_SNI_KEYWORDS = ["gosuslugi", "sber", "vtb", "yandex", "vk", "mail.ru", "ru-central", "rt.ru"]
+# Реальные белые SNI для РФ
+WHITE_SNI_KEYWORDS = ["gosuslugi", "sber", "vtb", "yandex", "vk", "mail.ru", "ru-central", "rt.ru", "max"]
 
 # Твоя полная база стран
 COUNTRY_BASE = {
