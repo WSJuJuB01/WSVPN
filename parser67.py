@@ -15,7 +15,18 @@ MARKER_WHITE  = "socks://0g==@52.52.52.52:443#Белые списки⬇️"
 
 # Реальные белые SNI для РФ
 # Реальные белые SNI для РФ
-WHITE_SNI_KEYWORDS = ["gosuslugi", "sber", "vtb", "yandex", "vk", "mail.ru", "ru-central", "rt.ru", "max"]
+WHITE_SNI_KEYWORDS = [
+    "gosuslugi", "gov", "mos", "nalog", "pfr", "zakupki", "digital",
+    "yandex", "ya", "vk", "mail", "ok", "rambler",
+    "sber", "sberbank", "vtb", "tinkoff", "t-bank", "tbank", "alfabank", "alfa", "raiffeisen", 
+    "rshb", "gazprombank", "gpb", "nspk", "mir", "cbr",
+    "mts", "megafon", "beeline", "tele2", "rt", "rostelecom", "domru",
+    "ru-central", "yandexcloud", "vkcloud", "selectel", "beget", "reg", "nic", "cloud",
+    "ozon", "wildberries", "avito", "lamoda", "sbermegamarket", "aliexpress", "magnit", "5ka",
+    "rutube", "kinopoisk", "ivi", "okko", "vkvideo", "dzen", "tass", "ria", "rbc",
+    "uchebnik", "sdamgia", "foxford", "skyeng", "geekbrains", "skillbox",
+    "max"
+]
 
 # Твоя полная база стран
 COUNTRY_BASE = {
