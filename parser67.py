@@ -10,8 +10,8 @@ SUBSCRIPTIONS = [
 ]
 
 # Жесткие маркеры из твоего файла sub.txt (они всегда на своих местах)
-MARKER_NORMAL = "socks://0g==@1488.88.88.88:443#Обычные сервера⬇️"
-MARKER_WHITE  = "socks://0g==@52.52.52.52:443#Белые списки⬇️"
+MARKER_NORMAL = "vless://Six-seven89-999998888@52.52.52.52:443?mode=gun&security=reality&encryption=nnnn&authority=&echfq=none&pbk=67gazan&fp=chrome&allowinsecure=0&type=grpc&serviceName=gRPC&sni=max.ru&sid=gazan#Обычные сервера⬇️"
+MARKER_WHITE  = "vless://Six-seven89-999998888@1488.52.52.52:443?mode=gun&security=reality&encryption=nnnn&authority=&echfq=none&pbk=67gazan&fp=chrome&allowinsecure=0&type=grpc&serviceName=gRPC&sni=max.ru&sid=gazan#Белые списки⬇️"
 
 # Реальные белые SNI для РФ
 # Реальные белые SNI для РФ
