@@ -22,7 +22,7 @@ WHITE_SNI_KEYWORDS = [
     "rshb", "gazprombank", "gpb", "nspk", "mir", "cbr",
     "mts", "megafon", "beeline", "tele2", "rt", "rostelecom", "domru",
     "ru-central", "yandexcloud", "vkcloud", "selectel", "beget", "reg", "nic", "cloud",
-    "ozon", "wildberries", "avito", "lamoda", "sbermegamarket", "aliexpress", "magnit", "5ka",
+    "ozon", "wildberries", "avito", "lamoda", "sbermegamarket", "aliexpress", "magnit", "x5",
     "rutube", "kinopoisk", "ivi", "okko", "vkvideo", "dzen", "tass", "ria", "rbc",
     "uchebnik", "sdamgia", "foxford", "skyeng", "geekbrains", "skillbox",
     "max"
